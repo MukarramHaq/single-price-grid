@@ -43,7 +43,6 @@ body{
 }
 
 .grid-container{
-    /* max-width: 52.5rem; */
     max-width: 39.688rem;
 }
 
@@ -53,7 +52,6 @@ body{
 
 .content{
     padding: 1.5rem 1rem 1.5rem 1rem;
-    /* border: 2px solid black; */
 }
 
 .first-section{
